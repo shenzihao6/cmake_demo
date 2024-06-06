@@ -1,0 +1,3 @@
+/home/shenzihao6/code/dynamic_lib_test/test_account/build/CMakeFiles/test_account.dir
+/home/shenzihao6/code/dynamic_lib_test/test_account/build/CMakeFiles/edit_cache.dir
+/home/shenzihao6/code/dynamic_lib_test/test_account/build/CMakeFiles/rebuild_cache.dir

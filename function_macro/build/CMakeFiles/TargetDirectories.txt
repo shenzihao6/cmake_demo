@@ -1,0 +1,2 @@
+/home/shenzihao6/code/function_macro/build/CMakeFiles/edit_cache.dir
+/home/shenzihao6/code/function_macro/build/CMakeFiles/rebuild_cache.dir

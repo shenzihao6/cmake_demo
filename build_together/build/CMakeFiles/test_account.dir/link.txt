@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_account.dir/test_account/main.cpp.o -o test_account   -L/home/shenzihao6/code/build_together/acount_dir/build  -Wl,-rpath,/home/shenzihao6/code/build_together/acount_dir/build:/home/shenzihao6/code/build_together/build libaccount.so 

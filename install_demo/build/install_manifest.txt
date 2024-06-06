@@ -1,0 +1,5 @@
+/home/shenzihao6/code/installed/include/dlib.h
+/home/shenzihao6/code/installed/include/slib.h
+/home/shenzihao6/code/installed/bin/install_demo
+/home/shenzihao6/code/installed/lib/libslib.a
+/home/shenzihao6/code/installed/lib/libdlib.so

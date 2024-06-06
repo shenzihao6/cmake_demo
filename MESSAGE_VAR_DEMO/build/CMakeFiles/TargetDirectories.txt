@@ -1,0 +1,2 @@
+/home/shenzihao6/code/MESSAGE_VAR_DEMO/build/CMakeFiles/edit_cache.dir
+/home/shenzihao6/code/MESSAGE_VAR_DEMO/build/CMakeFiles/rebuild_cache.dir

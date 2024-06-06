@@ -1,0 +1,3 @@
+/home/shenzihao6/code/static_lib_test/acount_dir/build/CMakeFiles/Account.dir
+/home/shenzihao6/code/static_lib_test/acount_dir/build/CMakeFiles/edit_cache.dir
+/home/shenzihao6/code/static_lib_test/acount_dir/build/CMakeFiles/rebuild_cache.dir

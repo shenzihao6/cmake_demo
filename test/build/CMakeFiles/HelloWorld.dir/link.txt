@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/HelloWorld.dir/src/sss.cpp.o -o HelloWorld 

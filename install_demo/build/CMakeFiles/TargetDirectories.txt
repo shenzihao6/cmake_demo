@@ -1,0 +1,9 @@
+/home/shenzihao6/code/install_demo/build/CMakeFiles/slib.dir
+/home/shenzihao6/code/install_demo/build/CMakeFiles/dlib.dir
+/home/shenzihao6/code/install_demo/build/CMakeFiles/install_demo.dir
+/home/shenzihao6/code/install_demo/build/CMakeFiles/edit_cache.dir
+/home/shenzihao6/code/install_demo/build/CMakeFiles/rebuild_cache.dir
+/home/shenzihao6/code/install_demo/build/CMakeFiles/list_install_components.dir
+/home/shenzihao6/code/install_demo/build/CMakeFiles/install.dir
+/home/shenzihao6/code/install_demo/build/CMakeFiles/install/local.dir
+/home/shenzihao6/code/install_demo/build/CMakeFiles/install/strip.dir

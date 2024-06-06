@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libdlib.so -o libdlib.so CMakeFiles/dlib.dir/src/dlib.cpp.o  -Wl,-rpath,/home/shenzihao6/code/installed/lib 

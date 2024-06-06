@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-eaa0dd0426e1cc6032ce.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "install_demo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "dlib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dlib-Debug-845ae742fe86d42e6f7f.json",
+					"name" : "dlib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "install_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-install_demo-Debug-653ee6d66b24ba33df00.json",
+					"name" : "install_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "slib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-slib-Debug-496327458ac89bad92ab.json",
+					"name" : "slib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/shenzihao6/code/install_demo/build",
+		"source" : "/home/shenzihao6/code/install_demo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

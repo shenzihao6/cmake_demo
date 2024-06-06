@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libaccount.so -o libaccount.so CMakeFiles/account.dir/acount_dir/Account.cpp.o 

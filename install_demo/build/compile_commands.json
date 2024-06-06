@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/shenzihao6/code/install_demo/build",
+  "command": "/usr/bin/c++  -I/home/shenzihao6/code/install_demo/include -g -o CMakeFiles/slib.dir/src/slib.cpp.o -c /home/shenzihao6/code/install_demo/src/slib.cpp",
+  "file": "/home/shenzihao6/code/install_demo/src/slib.cpp"
+},
+{
+  "directory": "/home/shenzihao6/code/install_demo/build",
+  "command": "/usr/bin/c++ -Ddlib_EXPORTS -I/home/shenzihao6/code/install_demo/include -g -fPIC -o CMakeFiles/dlib.dir/src/dlib.cpp.o -c /home/shenzihao6/code/install_demo/src/dlib.cpp",
+  "file": "/home/shenzihao6/code/install_demo/src/dlib.cpp"
+},
+{
+  "directory": "/home/shenzihao6/code/install_demo/build",
+  "command": "/usr/bin/c++  -I/home/shenzihao6/code/install_demo/include -g -o CMakeFiles/install_demo.dir/main.cpp.o -c /home/shenzihao6/code/install_demo/main.cpp",
+  "file": "/home/shenzihao6/code/install_demo/main.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/test_account.dir/main.cpp.o -o test_account   -L/home/shenzihao6/code/static_lib_test/test_account/../acount_dir/build  -Wl,-rpath,/home/shenzihao6/code/static_lib_test/test_account/../acount_dir/build -lAccount 

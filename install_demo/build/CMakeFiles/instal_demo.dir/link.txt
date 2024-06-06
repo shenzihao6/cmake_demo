@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/instal_demo.dir/main.cpp.o -o instal_demo  -Wl,-rpath,/usr/local/lib libslib.a libdlib.so 
