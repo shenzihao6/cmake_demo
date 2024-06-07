@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/shenzihao6/code/find_demo/build",
-  "command": "/usr/bin/c++   -g -o CMakeFiles/find_demo.dir/main.cpp.o -c /home/shenzihao6/code/find_demo/main.cpp",
+  "command": "/usr/bin/c++ -DGFLAGS_IS_A_DLL=0  -g -o CMakeFiles/find_demo.dir/main.cpp.o -c /home/shenzihao6/code/find_demo/main.cpp",
   "file": "/home/shenzihao6/code/find_demo/main.cpp"
 }
 ]

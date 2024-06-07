@@ -1,0 +1,7 @@
+/home/shenzihao6/code/custom_install_demo/find_test/build/CMakeFiles/main.dir
+/home/shenzihao6/code/custom_install_demo/find_test/build/CMakeFiles/edit_cache.dir
+/home/shenzihao6/code/custom_install_demo/find_test/build/CMakeFiles/rebuild_cache.dir
+/home/shenzihao6/code/custom_install_demo/find_test/build/CMakeFiles/list_install_components.dir
+/home/shenzihao6/code/custom_install_demo/find_test/build/CMakeFiles/install.dir
+/home/shenzihao6/code/custom_install_demo/find_test/build/CMakeFiles/install/local.dir
+/home/shenzihao6/code/custom_install_demo/find_test/build/CMakeFiles/install/strip.dir

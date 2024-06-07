@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o -o main   -L/home/shenzihao6/Documents/installed/lib  -Wl,-rpath,/home/shenzihao6/Documents/installed/lib -ldlib 

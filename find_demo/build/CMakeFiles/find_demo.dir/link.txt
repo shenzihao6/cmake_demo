@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/find_demo.dir/main.cpp.o -o find_demo 
+/usr/bin/c++ -g CMakeFiles/find_demo.dir/main.cpp.o -o find_demo  /usr/lib/x86_64-linux-gnu/libgflags.so.2.2.2 

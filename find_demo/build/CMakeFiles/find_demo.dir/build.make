@@ -92,6 +92,7 @@ find_demo_EXTERNAL_OBJECTS =
 
 find_demo: CMakeFiles/find_demo.dir/main.cpp.o
 find_demo: CMakeFiles/find_demo.dir/build.make
+find_demo: /usr/lib/x86_64-linux-gnu/libgflags.so.2.2.2
 find_demo: CMakeFiles/find_demo.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/shenzihao6/code/find_demo/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable find_demo"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/find_demo.dir/link.txt --verbose=$(VERBOSE)

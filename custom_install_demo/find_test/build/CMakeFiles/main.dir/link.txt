@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o -o main  -Wl,-rpath,/home/shenzihao6/code/custom_install_demo/custom_mod/installed/lib /home/shenzihao6/code/custom_install_demo/custom_mod/installed/lib/libdlib.so 

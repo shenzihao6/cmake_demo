@@ -2,7 +2,7 @@
 #include <gflags/gflags.h>
 
 DEFINE_string(name, "", "姓名");
-DEFINE_string(age, 0, "年龄");
+DEFINE_int32(age, 0, "年龄");
 
 int main(int argc, char* argv[])
 {

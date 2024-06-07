@@ -1,0 +1,5 @@
+/home/shenzihao6/code/custom_install_demo/custom_mod/installed/lib/libdlib.so
+/home/shenzihao6/code/custom_install_demo/custom_mod/installed/include/dlib.h
+/home/shenzihao6/code/custom_install_demo/custom_mod/installed/config/dlibTarget.cmake
+/home/shenzihao6/code/custom_install_demo/custom_mod/installed/config/dlibTarget-noconfig.cmake
+/home/shenzihao6/code/custom_install_demo/custom_mod/installed/config/dlibConfig.cmake
