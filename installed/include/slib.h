@@ -1,1 +1,0 @@
-void slib_test();
